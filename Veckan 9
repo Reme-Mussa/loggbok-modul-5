@@ -1,1 +1,36 @@
+Under det senaste året har virtualiseringstekniken fortsatt att utvecklas och har blivit en stor aktör inom området informationsteknologi och medicinsk forskning.
 
+ I januari 2025 lanserade Red Hat OpenShift Virtualization Engine, en lösning som hjälper till att förbättra virtuell maskinhantering och gör det lättare att modernisera applikationer.  Denna plattform ger en personlig upplevelse för att distribuera och skala virtuella maskiner, vilket hjälper organisationer att förbättra sin verksamhet.
+ Källa: industritorget.se
+
+ Samtidigt använder forskare vid KTH virtual reality-teknik i medicinsk forskning.  I mars 2024 tillkännagavs ett projekt som använder virtuella hjärnmodeller för att förbättra behandlingen av psykiska sjukdomar som schizofreni.  Genom att simulera hjärnans funktion kan forskare bättre förstå effekterna av olika läkemedel, vilket kan leda till mer personliga och effektiva behandlingar.
+ Källa: kth.se
+
+ Dessa exempel visar hur virtualiseringsteknik inte bara revolutionerar IT-infrastruktur, utan också öppnar upp nya vägar för framsteg inom medicinsk forskning och behandlingar.
+ Källor 
+https://www.kth.se/om/nyheter/centrala-nyheter/virtuell-hjarna-verktyg-mot-psykisk-ohalsa-1.1322974?utm_source=chatgpt.com
+
+https://www.redhat.com/en/about/press-releases/red-hat-unveils-red-hat-openshift-virtualization-engine?utm_source=chatgpt.com
+
+https://www.redhat.com/en/blog/introducing-red-hat-openshift-virtualization-engine
+
+https://www.industritorget.se/nyheter/red%2Bhat%2Blanserar%2B-%2Bred%2Bhat%2Bopenshift/40009/#mobileAnchor
+
+föreläsningar måndag till torsdag vecka 9  
+
+Sammanfattning av veckans föreläsningar
+Måndag: Utvecklingsmiljö och webbhotell
+Vi lärde oss konfigurera Docker genom att aktivera Windows Subsystem för Linux, uppdatera WSL2, starta om datorn och installera Docker Desktop med hjälp från Anders.
+Vi diskuterade webbhotell och innehållshanteringssystem som WordPress. DNS förenklar webbplatsåtkomst genom att använda domännamn istället för IP-adresser.
+Virtualiseringstekniker som VMware möjliggör flera system på en server, medan Docker och Kubernetes hanterar applikationer i containrar. Företag använder molntjänster som AWS för skalbar webbplatshantering.
+Tisdag: WordPress-installation
+Vi fortsatte med WordPress och installerade det via Local WordPress. Jag stötte på problem som Mattias hjälpte mig lösa genom att installera MAMP.
+Onsdag: Bash-kommandon
+Vi lärde oss Bash-kommandon och hur man ändrar deras beteende med flaggor som "-r" eller "-l", till exempel:
+
+rm -r för att ta bort en mapp med innehåll
+ls -l för att se detaljerad filinformation
+
+Torsdag: Docker och Jekyll
+Vi arbetade med Anders på grunderna i Docker och Jekyll, och lärde oss installationskommandon.
+Veckan var full av värdefull information trots utmaningar, och professorerna hjälpte mig lösa problemen och förbättra min förståelse.
